@@ -1,0 +1,9 @@
+{
+  "id": "cmpl-75oonWkhfehTWRoDiq1yfMTUtyjES",
+  "object": "text_completion",
+  "created": 1681621341,
+  "choices": [
+    { "text": " I", "index": 0, "logprobs": null, "finish_reason": null }
+  ],
+  "model": "text-davinci-003"
+}

@@ -14,3 +14,4 @@ const stream = await client.streamCompletion({
 for await (const chunk of stream) {
   process.stdout.write(chunk.completion);
 }
+process.stdout.write("\n");
